@@ -1,0 +1,17 @@
+[
+    {
+        "question": "What is 2 + 2?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "options": ["Mars", "Venus", "Earth", "Mercury"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Madrid", "Paris"],
+        "answer": "Paris"
+    }
+]
